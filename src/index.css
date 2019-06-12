@@ -1,0 +1,8 @@
+button {
+	border-width: 3px;
+	border-color: #333;
+}
+
+button:focus {
+	border-color: #36a;
+}
